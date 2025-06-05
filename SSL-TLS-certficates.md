@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/45462fdd-2b3d-4e1b-a957-d2a7b3702b8b)
 
 1. **Connection Request**: The browser requests a secure connection to a website (e.g., `https://www.google.com`).
 2. **SSL Certificate Sent**: The web server responds by sending its **SSL certificate**, which includes its **public key**.
